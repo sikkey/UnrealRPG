@@ -1,5 +1,6 @@
 # UnrealRPG
 A module of unreal engine that can support RPG features and based-UMG classes.
+You can easy use it as a unreal plugin or module.
 
 # How to use
 
